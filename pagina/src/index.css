@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+  background-image: url(./headerbtns/bgms2.gif);
+  background-size: cover;
+  /* bg antiguo: background-image: url(https://images-cdn.exchange.art/3Xg6HzZhLQOfa9PoRM8fwvxxyGA0EI3sfnQ5zK-vXYU?ext=fastly&optimize=medium);
+  /*background-color: #2196F3;*/
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
